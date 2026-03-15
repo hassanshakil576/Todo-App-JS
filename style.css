@@ -1,0 +1,28 @@
+.container {
+    max-width: 500px;
+}
+
+.list-group {
+    cursor: pointer;
+}
+
+.form-check-input {
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: lightgray;
+    opacity: 1;
+}
+
+.btn-success:hover {
+    background-color: #279c66;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
+span {
+    font-size: 1.1rem;
+}
